@@ -1,0 +1,4 @@
+name: usa_housing
+channels:
+  - defaults
+prefix: C:\Users\DELL\anaconda3\envs\usa_housing
